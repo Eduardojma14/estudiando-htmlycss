@@ -55,8 +55,6 @@
                     <h2>Promoción</h2>
                     <span>Nueva polera de algodon</span>
                     <button>Ver mas</button>
-                </section>
-                <section class="ropa">
                     <img src="./imagenes/fotos-pruebas/primera_capa_prime.jpg" alt="capa">
                     <h2>Promoción</h2>
                     <span>Nueva polera de algodon</span>
