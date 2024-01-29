@@ -215,4 +215,5 @@ footer{
 .grupo-2{
     display: flex;
     justify-content: center;
+    align-items: flex-end;
 }
